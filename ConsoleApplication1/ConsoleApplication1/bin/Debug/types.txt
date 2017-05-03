@@ -1,7 +1,46 @@
-Sword
-Axe
-Hammer
+Straight Sword
 Dagger
+Falchion
+Greatsword
+Bastard Sword
+Mail-Breaker
+Dirk
+Knife
+Gladius
+Scimitar
+Axe
+Battleaxe
+Great Axe
+Hammer
+Warhammer
+Scythe
 Mace
+Flanged Mace
+Flail
 Spear
-Shield
+Trident
+Scepter
+Wand
+Naginata
+Cestus
+Knuckle
+Katar
+Flail
+Bow
+Greatbow
+Crossbow
+Hand-Cannon
+Bandit's Dagger
+Throwing Axe
+Boomerang
+Small Shield
+Wooden Shield
+Buckler
+Kite Shield
+Greatshield
+Pan Lid
+Pitchfork
+Hand Axe
+Shotel
+Flamberge
+Morning Star
