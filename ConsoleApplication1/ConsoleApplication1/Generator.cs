@@ -61,6 +61,9 @@ namespace LootGenerator
                     case 3:
                         Console.ForegroundColor = ConsoleColor.Cyan;
                         break;
+                    case 4:
+                        Console.ForegroundColor = ConsoleColor.Magenta;
+                        break;
                 }
 
                 Console.WriteLine(items[i].displayText);

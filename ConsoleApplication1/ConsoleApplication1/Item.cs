@@ -35,10 +35,7 @@ namespace LootGenerator
             string newDisplayText = "";
 
             //First, determine what quality of item we're going to generate randomly.
-            //0 - broken
-            //1 - normal
-            //2 - fine
-            //3 - exceptional
+            //Higher is better.
             rarity = r.Next(maximumRarity);
 
             switch (rarity)
@@ -63,6 +60,17 @@ namespace LootGenerator
                     }else
                     {
                         newDisplayText = prefix + " " + type + " " + suffix;
+                    }
+                    break;
+                case 4:
+                    //Epic
+                    if (suffix[0] == ',')
+                    {
+                        newDisplayText = "Unique" + " " + type + suffix;
+                    }
+                    else
+                    {
+                        newDisplayText = "Unique" + " " + type + " " + suffix;
                     }
                     break;
             }

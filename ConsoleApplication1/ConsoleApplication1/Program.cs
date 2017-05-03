@@ -59,7 +59,8 @@ namespace LootGenerator
             Console.WriteLine("1) Only Broken items.");
             Console.WriteLine("2) Up to Normal quality.");
             Console.WriteLine("3) Up to Fine quality.");
-            Console.WriteLine("4) Any Quality.");
+            Console.WriteLine("4) Up to Exceptional quality.");
+            Console.WriteLine("4) Up to Epic quality.");
             Console.ForegroundColor = ConsoleColor.White;
             Console.Write("Your Answer: ");
             string rareInput = Console.ReadLine();

@@ -44,3 +44,9 @@ Hand Axe
 Shotel
 Flamberge
 Morning Star
+Partizan
+Parrying Dagger
+Tome
+Necronomicon
+Bardiche
+Sickle
